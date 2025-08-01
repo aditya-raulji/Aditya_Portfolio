@@ -12,6 +12,18 @@ export interface Certificate {
 }
 
 export const certifications: Certificate[] = [
+
+     {
+  id: "cert23",
+  name: "Generative AI Virtual Internship",
+  issuer: "EduSkills (in partnership with AICTE & Google Cloud)",
+  category: "Developer Tools / AI Pair Programming",
+  date: "June 2025",
+  description: "Successfully completed a 10-week Generative AI Virtual Internship offered by EduSkills under the National Internship Portal, supported by Google Cloud.",
+  image: "https://ik.imagekit.io/esmv2pqgj/Screenshot%202025-08-01%20120805.png?updatedAt=1754030460687", 
+  skills: ["Generative AI", "Google Cloud", "AI Concepts", "Cloud Infrastructure", "Project Work"],
+  verificationUrl: "https://internship.aicte-india.org/"
+},
   {
     id: "cert2",
     name: "Azure Services Basics",
