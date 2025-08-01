@@ -22,7 +22,7 @@ export const certifications: Certificate[] = [
   description: "Successfully completed a 10-week Generative AI Virtual Internship offered by EduSkills under the National Internship Portal, supported by Google Cloud.",
   image: "https://ik.imagekit.io/esmv2pqgj/Screenshot%202025-08-01%20120805.png?updatedAt=1754030460687", 
   skills: ["Generative AI", "Google Cloud", "AI Concepts", "Cloud Infrastructure", "Project Work"],
-  verificationUrl: "https://internship.aicte-india.org/"
+  verificationUrl: "https://drive.google.com/file/d/1vAW2f7vt70nbrttD_Xd0Uovcf0vK0rfs/view?usp=sharing"
 },
   {
     id: "cert2",
